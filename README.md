@@ -32,7 +32,7 @@ Requirements
 Python 3.x
 NumPy
 Pandas
-NLTK
+Seaborn
 Scikit-learn
 
 ## Usage
