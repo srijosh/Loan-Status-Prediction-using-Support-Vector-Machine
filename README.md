@@ -25,7 +25,8 @@ The dataset used in this project is from Kaggle's Loan Prediction dataset. It co
 To run this project, you need to have Python installed on your machine. You can install the required dependencies using `pip`.
 
 ```
-pip install numpy pandas nltk scikit-learn
+pip install numpy pandas seaborn scikit-learn
+
 ```
 
 Requirements
